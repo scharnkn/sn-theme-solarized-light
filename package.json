@@ -4,7 +4,7 @@
   "content_type": "SN|Theme",
   "area": "themes",
   "version": "1.0.0",
-  "download_url": "http://localhost:8001/src/theme.css",
+  "download_url": "https://github.com/scharnkn/sn-theme-solarized-light/archive/refs/tags/test.zip",
   "dock_icon": {
     "type": "circle",
     "background_color": "#086DD6",
