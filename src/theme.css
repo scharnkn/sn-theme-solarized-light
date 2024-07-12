@@ -89,6 +89,8 @@
 
   /* Focused menu items + short cuts */
   --sn-stylekit-passive-color-3: var(--col-base2);
+  /* Access menu background elements */
+  --sn-stylekit-passive-color-4: var(--col-base2);
   /* Mobile menu background color */
   --sn-stylekit-passive-color-5: var(--col-base2);
 
