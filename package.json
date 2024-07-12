@@ -1,6 +1,6 @@
 {
   "name": "@scharnkn/sn-theme-solarized-light",
-  "version": "0.1",
+  "version": "0.2",
   "sn": {
     "main": "src/theme.css"
   },
