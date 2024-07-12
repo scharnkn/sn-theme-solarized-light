@@ -3,10 +3,10 @@
   "name": "Solarized Light",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "0.1",
+  "version": "0.2",
   "description": "A light theme for Standard Notes using the Solarized color theme.",
   "url": "https://scharnkn.github.io/sn-theme-solarized-light/src/theme.css",
-  "download_url": "https://github.com/scharnkn/sn-theme-solarized-light/archive/refs/tags/v0.1.zip",
+  "download_url": "https://github.com/scharnkn/sn-theme-solarized-light/archive/refs/tags/v0.2.zip",
   "marketing_url": "https://github.com/scharnkn/sn-theme-solarized-light",
   "latest_url": "https://scharnkn.github.io/sn-theme-solarized-light/ext.json",
   "dock_icon": {
