@@ -1,17 +1,11 @@
 {
-  "identifier": "com.github.scharnkn.snsolarizedlight",
-  "name": "Solarized Light (scharnkn)",
-  "content_type": "SN|Theme",
-  "area": "themes",
-  "version": "1.0.0",
-  "download_url": "https://github.com/scharnkn/sn-theme-solarized-light/archive/refs/tags/test.zip",
-  "dock_icon": {
-    "type": "circle",
-    "background_color": "#086DD6",
-    "foreground_color": "#ffffff",
-    "border_color": "#086DD6"
-  },
+  "name": "@scharnkn/sn-theme-solarized-light",
+  "version": "0.1",
   "sn": {
     "main": "src/theme.css"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scharnkn/sn-theme-solarized-light.git"
+  }
 }
