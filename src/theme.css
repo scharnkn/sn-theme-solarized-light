@@ -87,6 +87,9 @@
   --sn-stylekit-accessory-tint-color-5: var(--col-cyan);
   --sn-stylekit-accessory-tint-color-6: var(--col-orange);
 
+  /* Mobile menu background color */
+  --sn-stylekit-passive-color-5: var(--col-base2);
+
   /* additional tweaks */
 
   --navigation-item-selected-background-color: var(--col-extra01);
