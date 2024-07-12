@@ -11,8 +11,8 @@
   "latest_url": "https://scharnkn.github.io/sn-theme-solarized-light/ext.json",
   "dock_icon": {
     "type": "circle",
-    "background_color": "#086DD6",
-    "foreground_color": "#ffffff",
-    "border_color": "#086DD6"
+    "background_color": "#eee8d5",
+    "foreground_color": "#657b83",
+    "border_color": "#268bd2"
   }
 }
