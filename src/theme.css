@@ -80,15 +80,6 @@
   --sn-stylekit-theme-type: light;
   --sn-stylekit-theme-name: sn-light;
 
-  --sn-stylekit-passive-color-1: var(--col-base01);
-  --sn-stylekit-passive-color-2: var(--col-base1);
-  --sn-stylekit-passive-color-3: var(--col-base2);
-  --sn-stylekit-passive-color-4: #8c7a2f;
-  --sn-stylekit-passive-color-4-opacity-variant: var(--col-extra01);
-  --sn-stylekit-passive-color-5: var(--col-base3);
-  --sn-stylekit-passive-color-6: var(--col-base2);
-  --sn-stylekit-passive-color-super-light: #f9f9f9;
-
   --sn-stylekit-accessory-tint-color-1: var(--col-blue);
   --sn-stylekit-accessory-tint-color-2: var(--col-magenta);
   --sn-stylekit-accessory-tint-color-3: var(--col-yellow);
