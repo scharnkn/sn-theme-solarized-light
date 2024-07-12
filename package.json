@@ -6,6 +6,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/scharnkn/sn-theme-solarized-light.git"
+    "url": "git@github.com/scharnkn/sn-theme-solarized-light.git"
   }
 }
